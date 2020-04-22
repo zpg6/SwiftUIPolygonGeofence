@@ -1,7 +1,7 @@
 import XCTest
 
-import SwiftUIGeofenceTests
+import SwiftUIPolygonGeofenceTests
 
 var tests = [XCTestCaseEntry]()
-tests += SwiftUIGeofenceTests.allTests()
+tests += SwiftUIPolygonGeofenceTests.allTests()
 XCTMain(tests)

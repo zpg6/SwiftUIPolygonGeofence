@@ -6,7 +6,7 @@ After struggling through the documentation on this one, I thought I'd share my a
 ### Accepting new Issues with this package from anyone looking to contribute.
 
 
-SwiftUIPolygonGeofence V1.0.3
+SwiftUIPolygonGeofence V1.0.4
 ----------
 
 ![SwiftUIPolygonGeofence](https://raw.githubusercontent.com/zpg6/SwiftUIPolygonGeofence/master/src/screen1-mockup.png)

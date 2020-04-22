@@ -6,7 +6,7 @@ After struggling through the documentation on this one, I thought I'd share my a
 ### Accepting new Issues with this package from anyone looking to contribute.
 
 
-SwiftUIPolygonGeofence V1.0.5
+SwiftUIPolygonGeofence V1.0.6
 ----------
 
 ![SwiftUIPolygonGeofence](https://raw.githubusercontent.com/zpg6/SwiftUIPolygonGeofence/master/src/screen1-mockup.png)
@@ -30,7 +30,12 @@ Features
 Usage
 ----------
 
-See Sources/Views/ExampleView.swift
+```Your App --> Target - Your App --> Signing and Capabilities --> Add Capability --> Background Modes --> Location Updates```
+
+Add key ```Privacy - Location When In Use Usage Description``` (and an actual description as the value) to your Info.plist
+
+
+For example implementation see ```Sources/Views/ExampleView.swift```
 
 
 Installation

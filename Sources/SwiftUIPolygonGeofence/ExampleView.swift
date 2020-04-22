@@ -47,7 +47,7 @@ struct ExampleView: View {
                 
             }.opacity(self.geofencing ? 0:1)
             
-            SwiftUIGeofence(show: self.$geofencing, points: self.$points, locations: self.$locations).opacity(self.geofencing ? 1:0)
+            SwiftUIPolygonGeofence(show: self.$geofencing, points: self.$points, locations: self.$locations).opacity(self.geofencing ? 1:0)
         
         }
         

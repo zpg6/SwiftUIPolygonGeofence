@@ -6,6 +6,9 @@
 //
 
 import Foundation
+import SwiftUI
+import MapKit
+import CoreGraphics
 
 struct ExampleView: View {
     

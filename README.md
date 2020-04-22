@@ -13,6 +13,8 @@ SwiftUIPolygonGeofence V1.0.0
 
 ![SwiftUIPolygonGeofence](https://raw.githubusercontent.com/zpg6/SwiftUIPolygonGeofence/master/src/screen2-mockup.png)
 
+![SwiftUIPolygonGeofence](https://raw.githubusercontent.com/zpg6/SwiftUIPolygonGeofence/master/src/screen3-mockup.png)
+
 
 
 Features

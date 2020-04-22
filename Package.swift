@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "SwiftUIPolygonGeofence",
     platforms: [
-        .iOS(.v13)
+        .iOS("13.0")
     ],
     products: [
         // Products define the executables and libraries produced by a package, and make them visible to other packages.

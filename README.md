@@ -6,7 +6,7 @@ After struggling through the documentation on this one, I thought I'd share my a
 ### Accepting new Issues with this package from anyone looking to contribute.
 
 
-SwiftUIPolygonGeofence V1.0.6
+SwiftUIPolygonGeofence V1.0.7
 ----------
 
 ![SwiftUIPolygonGeofence](https://raw.githubusercontent.com/zpg6/SwiftUIPolygonGeofence/master/src/screen1-mockup.png)
@@ -43,7 +43,7 @@ Installation
 
 ### Swift Package Manager
 
-Xcode 11 includes support for Swift Package Manager. In order to add Connectivity to your project in Xcode 11, from the File menu select Swift Packages and then select Add Package Dependency.
+Xcode 11 includes support for Swift Package Manager. In order to add SwiftUIPolygonGeofence to your project in Xcode 11, from the File menu select Swift Packages and then select Add Package Dependency.
 
 A dialogue will request the package repository URL which is:
 

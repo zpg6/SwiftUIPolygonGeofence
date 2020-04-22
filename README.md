@@ -6,7 +6,7 @@ After struggling through the documentation on this one, I thought I'd share my a
 ### Accepting new Issues with this package from anyone looking to contribute.
 
 
-SwiftUIPolygonGeofence V1.0.0
+SwiftUIPolygonGeofence V1.0.1
 ----------
 
 ![SwiftUIPolygonGeofence](https://raw.githubusercontent.com/zpg6/SwiftUIPolygonGeofence/master/src/screen1-mockup.png)
@@ -50,7 +50,7 @@ After verifying the URL, Xcode will prompt you to select whether to pull a speci
 
 
 
-Bugs in V1.0.0
+Bugs in V1.0.1
 ----------
 
 Would love some help getting the inside/outside detection more accurate. 

@@ -4,11 +4,18 @@
 //
 //  Created by Zachary Grimaldi on 4/21/20.
 //
-
-import Foundation
-import SwiftUI
-import MapKit
-import CoreGraphics
+#if canImport(Foundation)
+    import Foundation
+#endif
+#if canImport(SwiftUI)
+    import SwiftUI
+#endif
+#if canImport(MapKit)
+    import MapKit
+#endif
+#if canImport(CoreGraphics)
+    import CoreGraphics
+#endif
 
 extension CLLocationManager {
     func isInsideFence(points: Binding<[CGPoint]>, locations: Binding<[MKMapPoint]>, map: MKMapView) -> Bool {

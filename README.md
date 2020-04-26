@@ -1,12 +1,14 @@
 # SwiftUIPolygonGeofence
 
+[![HitCount](http://hits.dwyl.com/zpg6/SwiftUIPolygonGeofence.svg)](http://hits.dwyl.com/zpg6/SwiftUIPolygonGeofence)
+
 After struggling through the documentation on this one, I thought I'd share my attempt to bring Geofencing to SwiftUI.
 *Excuse a less than perfect Swift Package.* It's my first, but gotta start somewhere!
 
 ### Accepting new Issues with this package from anyone looking to contribute.
 
 
-SwiftUIPolygonGeofence V1.0.7
+SwiftUIPolygonGeofence V1.0.8
 ----------
 
 ![SwiftUIPolygonGeofence](https://raw.githubusercontent.com/zpg6/SwiftUIPolygonGeofence/master/src/screen1-mockup.png)
